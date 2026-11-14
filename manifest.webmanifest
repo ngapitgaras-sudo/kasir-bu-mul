@@ -1,0 +1,16 @@
+{
+  "name": "TOKO BU MUL - Kasir",
+  "short_name": "BU MUL",
+  "description": "Aplikasi kasir toko sembako",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "id",
+  "background_color": "#1b7f4b",
+  "theme_color": "#1b7f4b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
